@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="action_settings">Settings Only For This Time</string>
+    <string name="Enter_text">Enter the Text</string>
+    <string name="get_text">Get text</string>
+    <string name="gym_son">gym son</string>
+</resources>
